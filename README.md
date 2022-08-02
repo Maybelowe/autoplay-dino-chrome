@@ -1,6 +1,4 @@
-## autoplay-dino-chrome
-
-### tinggal copy kidz🗿
+## tinggal copy kidz🗿
 
 #### Pertama
 ```js
