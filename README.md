@@ -1,6 +1,13 @@
 # autoplay-dino-chrome
 
 ### tinggal copy kidz🗿
+
+##### Pertama
+```js
+Runner.instance.gameOver = function(){}
+```
+
+##### ke 2
 ```js
 const autoPlayLoop = function() {
    const JUMP_SPEED = 50;
