@@ -4,7 +4,7 @@
 
 ##### Pertama
 ```js
-Runner.instance.gameOver = function(){}
+Runner.prototype.gameOver = function(){}
 ```
 
 ##### ke 2
