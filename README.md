@@ -1,6 +1,6 @@
 # autoplay-dino-chrome
 
-## Ini ya kidz🗿
+## tinggal copy kidz🗿
 ```js
 const autoPlayLoop = function() {
    const JUMP_SPEED = 50;
