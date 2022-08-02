@@ -7,7 +7,7 @@
 Runner.prototype.gameOver = function(){}
 ```
 
-#### ke 2
+#### kedua
 ```js
 const autoPlayLoop = function() {
    const JUMP_SPEED = 50;
